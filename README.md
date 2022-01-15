@@ -20,6 +20,6 @@
 - Brief description of the Assignment
 
 ## Screenshots
-![ScreenShot] 
+![ScreenShot] (https://github.com/wilmerojeda13/Password-generator/blob/main/Images/Screenshots.png)
 
 
